@@ -34,6 +34,7 @@ We focused on the US reviews for video games.
 </p>
 <br>
 
+
 ### Percentage of 5-star reviews
 - Vine reviews <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/99217345-77e86600-279d-11eb-89ce-5704117874da.png"> 
